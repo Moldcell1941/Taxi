@@ -1,0 +1,106 @@
+
+body{
+    background-color: rgb(149, 106, 189) ;
+    font-size: 18px;
+    font-weight: normal;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+a{
+    color:rgb(228, 214, 17) ;
+}
+.Такси2{
+    width: 1330px;
+}
+
+.letters{
+    width: 1260px;
+    background-color: black;
+    border: 25px solid rgb(149, 106, 189);
+    padding: 10px;
+    margin: -6px 0px 0px;
+    }
+    .letters img{
+        margin: 0px 0px 0px 150px;
+    }
+.letters h2{
+    color: rgb(149, 106, 189);
+    margin-bottom: -20px;
+    margin: -25px 0px 15px 110px;
+    text-decoration: underline;
+    color:rgb(228, 214, 17) ;
+}
+.shashka{
+    width: 75px;
+    margin: 0px 0px 0px 90px;
+}
+
+.letters h1{
+    color: rgb(228, 214, 17);
+    margin-bottom: 20px;
+    margin: 5px 0px 45px 95px;
+    font-family: TD Cyrillic Regular;
+    letter-spacing: 6px;
+    font-size:75px;
+}
+.letters h3{
+    color: rgb(228, 214, 17);
+    margin: 0px 0px 25px 65px;
+    text-decoration: underline;
+}
+.anounce{
+    width: 1330px;
+    background-color: rgb(149, 106, 189);
+    color: black;
+    border: 25px;
+    margin: -23px 0px 0px;
+    font-weight: 600;
+}
+
+
+.anounce h3{
+    margin: 25px 0px 10px 290px;
+    text-decoration: underline;
+}
+.anounce ol{
+    margin: 0px 0px 0px 290px;
+}
+.anounce p{
+    margin: 0px 0px 0px 290px;
+}
+.ourtable{
+    margin: 40px 0px 0px 500px;
+}
+.conectoins img{
+    width: 280px;
+    border-radius: 25px;
+    margin: 35px 0px 0px 550px;
+    border: 3px solid black;
+
+}
+.conectoins h1{
+    margin: 10px 0px 0px 561px;
+    text-decoration: underline;
+}
+.conectoins h2{
+    margin: 35px 0px 0px 50px;
+    text-decoration: underline;
+
+}
+.conectoins ul{
+    margin: 0px 0px 0px 35px;
+}
+.conectoins p{
+    margin: 5px 0px 0px 566px;
+
+}
+.dot{
+    margin: 25px 0px 0px 50px;
+}
+.help{
+    margin: 0px 0px 0px 50px;
+}
+
+.shkoda img{
+     width: 400px;
+     margin: 0px 0px 0px 500px;
+}
